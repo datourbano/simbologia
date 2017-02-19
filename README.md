@@ -1,0 +1,2 @@
+# simbologia
+Símbolos y patrones
