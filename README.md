@@ -8,5 +8,6 @@ Muchos de los elementos simbólicos de este repositorio, proceden o están const
 ATRIBUCIÓN
 
 * [map icons collection](https://mapicons.mapsmarker.com/) by Masps marker Pro
-* [Google Material Design](https://material.io/icons/)
+* [Google Material Design](https://material.io/icons/) by  Google Inc. 
+* [lwtMapMarkerIcons](http://www.littlewebthings.com/) Copyright 2010, Vassilis Dourdounis
 
